@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175525357493",
+    "firebase_url": "https://harbor-project-2f8c7.firebaseio.com",
+    "project_id": "harbor-project-2f8c7",
+    "storage_bucket": "harbor-project-2f8c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175525357493:android:2326f84f864f17b8c15bfc",
+        "android_client_info": {
+          "package_name": "com.example.harbor_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175525357493-paagbmcmpotfae9btt68g40eoag50jba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsopXxpLu9mKPmMb9_EU_hPXAvI0Ttq2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175525357493-paagbmcmpotfae9btt68g40eoag50jba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
